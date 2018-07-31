@@ -4,5 +4,5 @@
 
 -- Las demás funciones están en fase de pruebas y pueden no funcionar o causar errores.
 
--- abrir de preferencia con netbeans.
+-- Abrir de preferencia con netbeans.
 
