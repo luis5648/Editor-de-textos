@@ -1,9 +1,6 @@
 package main;
 
-/*
-Alumno: Luis Gerardo Román Marín
-Materia: Programación 2
- */
+
 import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;
