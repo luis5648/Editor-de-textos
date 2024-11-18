@@ -1,8 +1,8 @@
 # Editor-de-textos
 
--- Editor de textos programado en java con las funciones de abrir un archivo ya creado o crear uno nuevo y guardarlo.
+Editor de textos programado en java con las funciones de abrir un archivo ya creado o crear uno nuevo y guardarlo.
 
--- Las demás funciones están en fase de pruebas y pueden no funcionar o causar errores.
+- Las demás funciones están en fase de pruebas y pueden no funcionar o causar errores.
 
--- Abrir de preferencia con netbeans.
+- Abrir de preferencia con netbeans.
 
